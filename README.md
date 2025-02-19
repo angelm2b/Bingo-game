@@ -41,4 +41,4 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 ## Autor
 
-Creado por [ANGELM2B](https://angelm2b.onrender.com/).
+Creado por [ANGELM2B](https://angelm2b.com/).
